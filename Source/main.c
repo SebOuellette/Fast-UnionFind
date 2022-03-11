@@ -1,3 +1,10 @@
+/// This file is a bit of a mess, but the bulk of it is just keeping track of memory
+/// which is something you'd have to do anyway in a quick find or quick union algorithm.
+/// The problem is that this is C, so I have to do memory management manually.
+
+//// Therefore, look in the DataTypes.h and DataTypes.c files for the actual algorithm
+
+
 #include <stdio.h>
 #include "../Headers/DataTypes.h"
 
