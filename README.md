@@ -6,4 +6,4 @@ The main.c file just uses the algorithm, and does all the memory management, so 
 
 ## Original Plan
 I came up with this while I was at work, so I wrote it down on a piece of cardboard.. Here's that plan if you can make any of it out. 
-![Original plan](https://images.soue.ca/shQaf0poGA.jpg)
+![Original plan](https://cdn.honeybeeks.net/shQaf0poGA.jpg)
